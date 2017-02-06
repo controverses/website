@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Sciences Po
+
+![ScPo Campus Paris](http://www.sciencespo.fr/welcome/sites/sciencespo.fr.welcome/files/05.png?1429261304)
 
 You can use the [editor on GitHub](https://github.com/controverses/burnout/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
