@@ -7,6 +7,7 @@ Le menu à gauche est un contre-exemple parfait. Il faut proposer un parcours qu
 ### Un choix entre douze thèmes assez simples, dont le css est éditable
 
 *[Architect](https://pages-themes.github.io/architect/)
+
 *[Cayman](https://pages-themes.github.io/cayman/)
 *[Dinky](https://pages-themes.github.io/dinky/)
 *[Hacker](https://pages-themes.github.io/hacker/)
