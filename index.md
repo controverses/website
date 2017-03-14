@@ -18,15 +18,14 @@ Lecteur de type youtube
 
 ### comme texte
 
+Mise en valeur d'extraits sous forme d'un bloc
 ```
 
 Le vent d'hiver souffle, et la nuit est sombre, 
 Des gémissements sortent des tilleuls ; 
 
 ```
+ou de citations 
 
 > Les squelettes blancs vont à travers l'ombre 
->
-> Courant et sautant sous leurs grands linceuls 
-
-
+> Courant et sautant sous leurs grands linceuls
