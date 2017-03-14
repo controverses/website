@@ -1,6 +1,6 @@
 ## Restituer des entretiens
 
-### au format audio (entretiens entiers ou plus judicieusement, des extraits choisis)
+### au format audio (entretiens ou extraits choisis)
 
 Lecteur de type Soundcloud
 
