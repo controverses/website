@@ -1,7 +1,6 @@
-## Représenter une enquête sociotechnique
-
 <img src="http://www.ephemanar.net/imagestrois/controverse_.jpg" alt="Controverse" width="640">
 
+## Représenter une enquête sociotechnique
 ### L'essentiel : penser la narration de votre controverse
 
 Le menu à gauche est un contre-exemple parfait. Il faut proposer un parcours qui permette de déployer progressivement les enjeux et la configuration sociale spécifiques à votre controverse. De même une division sectorielle "science/économie/politique…" est à proscrire dans la mesure où elle démontre un degré nul d'assimilation des concepts STS…
