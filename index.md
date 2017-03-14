@@ -1,6 +1,6 @@
 ## Représenter une enquête sociotechnique
 
-![Controverse](http://www.ephemanar.net/imagestrois/controverse_.jpg| width=300)
+<img src="http://www.ephemanar.net/imagestrois/controverse_.jpg" alt="Controverse" width="300">
 
 ### L'essentiel : penser la narration de votre controverse
 
