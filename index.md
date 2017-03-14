@@ -1,6 +1,4 @@
-# Étude de controverse
-
-![Burn out](http://www.appelmedecins-burnout.fr/thumbs/qu-est-ce-que-le-burnout.jpg)
+![Controverse](http://www.ephemanar.net/imagestrois/controverse_.jpg)
 
 ## 1ère partie
 
