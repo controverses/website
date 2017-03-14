@@ -8,7 +8,9 @@ Lecteur plus discret Wikipedia, pour des extraits
 
 <iframe src="//commons.wikimedia.org/wiki/File:Saint-Saens,_Camille_-_Danse_macabre_Opus_40_-_Computer_generated,_transcribed_by_MacLeod.ogg?embedplayer=yes" width="300" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
-> Le vent d'hiver souffle, et la nuit est sombre,
-> Des gémissements sortent des tilleuls ;
-> Les squelettes blancs vont à travers l'ombre
-> Courant et sautant sous leurs grands linceuls
+Extraits d'entretiens mis en valeur
+
+> Le vent d'hiver souffle, et la nuit est sombre, 
+> Des gémissements sortent des tilleuls ; 
+> Les squelettes blancs vont à travers l'ombre 
+> Courant et sautant sous leurs grands linceuls 
