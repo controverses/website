@@ -14,6 +14,8 @@ Lecteur plus discret Wikipedia, pour des extraits
 
 Lecteur de type youtube
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YyknBTm_YyM" frameborder="0" allowfullscreen></iframe>
+
 Extraits d'entretiens mis en valeur
 
 '''
