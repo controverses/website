@@ -6,8 +6,6 @@
     <title>{{ site.title | default: site.github.repository_name }} by {{ site.github.owner_name }}</title>
     <link href='https://fonts.googleapis.com/css?family=Arvo:400,700,400italic' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <link type="text/css" rel="stylesheet" href="jquery.dropdown.css" />
-    <script type="text/javascript" src="jquery.dropdown.js"></script>
     <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     <!--[if lt IE 9]>
@@ -37,17 +35,6 @@
         <p><small>Une enquête d'un groupe d'étudiants Scube en 2017</small></p>
       </footer>
     </div>
-    <div id="jq-dropdown-1" class="jq-dropdown jq-dropdown-tip">
-    <ul class="jq-dropdown-menu">
-        <li><a href="#1">Item 1</a></li>
-        <li><a href="#2">Item 2</a></li>
-        <li><a href="#3">Item 3</a></li>
-        <li class="jq-dropdown-divider"></li>
-        <li><a href="#4">Item 4</a></li>
-        <li><a href="#5">Item 5</a></li>
-        <li><a href="#5">Item 6</a></li>
-    </ul>
-</div>
     <!--[if !IE]><script>fixScale(document);</script><![endif]-->
     {% if site.google_analytics %}
       <script type="text/javascript">
